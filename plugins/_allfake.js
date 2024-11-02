@@ -9,7 +9,7 @@ let img = catalogo
     forwardedNewsletterMessageInfo: {
       newsletterJid: "12098765423@newsletter",
       serverMessageId: 100,
-      newsletterName: '𝗞𝗜𝗟𝗟 𝗕𝗢𝗧',
+      newsletterName: '𝐄𝐋𝐌𝐎 𝐁𝐎𝐓',
     },
 	    externalAdReply: {
 				    showAdAttribution: true,
@@ -18,7 +18,7 @@ let img = catalogo
 					mediaUrl: null,
 					description: null,
 					previewType: "PHOTO",
-					thumbnailUrl: 'https://i.ibb.co/qFTp64d/KILLZN-min.png',
+					thumbnailUrl: 'https://i.ibb.co/C0YF1kC/Elmo.jpg',
 		           sourceUrl: canal,
 		           mediaType: 1,
                    renderLargerThumbnail: false
